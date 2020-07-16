@@ -5,7 +5,7 @@ int main()
 {
 
 
-	cout << "welcome to my Proect" << endl;
+	cout << "welcome to my Project" << endl;
 
 
 
