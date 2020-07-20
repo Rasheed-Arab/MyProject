@@ -6,7 +6,7 @@ int main()
 
 
 	cout << "welcome to my Project" << endl;
-
+    cout<<" To test sync with master"<<endl;
 
 
 
